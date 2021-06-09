@@ -1,2 +1,3 @@
 # Productslist
-Effectuer u,ne liste de produits  avec nom du produit et prix ( boucle while en continu ) 
+Effectuer une liste de produits  avec nom du produit et prix ( boucle while en continu ) 
+JS 
